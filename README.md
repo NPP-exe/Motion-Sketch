@@ -91,7 +91,7 @@ If you want to contribute—whether it's adding new colors, implementing multi-f
 **Contact me:**
 
 * **Email:** narayanprasadpattanayak2009@gmail.com
-* **LinkedIn:** [LinkedIn]](https://www.linkedin.com/in/narayan-prasad-pattanayak-b40309367/)
+* **LinkedIn:** https://www.linkedin.com/in/narayan-prasad-pattanayak-b40309367
 
 
 ## 📄 License
